@@ -1,7 +1,7 @@
 # Recursion
 In this project two known computer science problems are solved with recursion. 
 The first one is creating a fibonacci sequence and the second one is a merge_sort. This
-solutions are part of (The Odin Project - Recursion)[https://www.theodinproject.com/courses/ruby-programming/lessons/recursion]
+solutions are part of [The Odin Project - Recursion](https://www.theodinproject.com/courses/ruby-programming/lessons/recursion)
 in the Ruby section.
 
 ## Fibonacci
